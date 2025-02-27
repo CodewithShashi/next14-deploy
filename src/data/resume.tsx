@@ -6,7 +6,7 @@ export const DATA = {
   initials: "DV",
   url: "",
   location: "Noida, India",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "",
   description:
     "I'm software developer from India with expertise in UI development Javascript, React, CMS and UI/UX technologies for user interface development. staying ahead of technological trends by constantly investigating new tools.",
   summary:
