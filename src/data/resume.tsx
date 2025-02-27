@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Shashi Shekhar Pandey",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "",
   location: "Noida, India",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
